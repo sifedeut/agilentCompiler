@@ -33,6 +33,5 @@ public class DT implements ILogEntry {
 
 	public ArrayList<String> getValues() {
 		return this.values;
-	}
-	
+	}	
 }
